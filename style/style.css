@@ -54,7 +54,7 @@ header > h1 {
     color: var(--cor1);
     font-family: var(--fonte-onepiece);
     font-size: 4em;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     text-shadow: 3px 3px 0px rgba(0, 245, 102, 0.301);
 }
 
